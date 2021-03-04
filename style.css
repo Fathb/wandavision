@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.content {
+  background-image: linear-gradient(to right bottom, red,yellow,silver,black);
+  height: 600px;
+  width: 100%;
+}
